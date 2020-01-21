@@ -71,6 +71,8 @@ def total_even_pairs(src)
       total += subtotal
     end
   }
+  
+  total
 end
 
 def is_even(num)
